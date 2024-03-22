@@ -67,6 +67,7 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | af1a2e8005f6ffc9e291e121d1fb08795c5a079409b8ca56e20eb2f4f6f8553b | 🐶 | 0 |
 | f6fc7721184b59868d895e7463515b83abb467238f239809b6ef76717e444063 | 👽 | 0 |
 | e39089d132e80331631c443c8b086f6c3c0e25d892c15e49cd38b7ec10818d45 | ERGOD | 3 |
+| 57b6feed2227e9d2e23fc67db81841def85d9340d7f653e01a451495d3824198 | 🧿 | 0 |
 ## Supported NFT list
 | Token ID | Token Name | Token decimals |
 | --- | --- | --- |
@@ -100,3 +101,7 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 2f9cfc1dc96d3668957673ac0ed1b4a1c62e44cbc940f65827f787d34bc4e8c1 | TEAMANDANULTRARARE | 0 |
 | 213c853383e03cedf0ded4d83aa5e44e1d5c8e1ed2f2482a419d5dad155b8975 | THEKROWELLULTRARARE | 0 |
 | b0e2ffe45a5c5d6cc33036bffc21696ba34b2f2b51b59aa1724afede71cbba8c | HOSKINAUTULTRARARE | 0 |
+| 22efd5e40f0a126b0cd7612b08374890657ff4485e783d128c2b801bb5247593 | Purple Crystal Orb | 0 |
+| e42f6a8b7f0c1da367cfeef64c840827b8e784cdfebd1d24abc6555fe9217a85 | Green Crystal Orb | 0 |
+| 867be233842e0aa5b533c296894882eac67067555b50956f43b1192c3e5c7a64 | Cosmic Crystal Orb | 0 |
+
